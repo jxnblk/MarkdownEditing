@@ -1,4 +1,7 @@
 # MarkdownEditing
+## Jxnblk Edition
+
+Because IA Writer doesn't support VIM commands
 
 ### Better Markdown Editing features for Sublime Text 2
 
